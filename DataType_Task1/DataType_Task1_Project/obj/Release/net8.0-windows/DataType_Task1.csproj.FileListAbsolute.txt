@@ -1,0 +1,17 @@
+d:\GitFiles\NorbitPractice\DataType_Task1\DataType_Task1_Project\bin\Release\net8.0-windows\DataType_Task1.exe
+D:\GitFiles\NorbitPractice\DataType_Task1\DataType_Task1_Project\bin\Release\net8.0-windows\DataType_Task1.deps.json
+D:\GitFiles\NorbitPractice\DataType_Task1\DataType_Task1_Project\bin\Release\net8.0-windows\DataType_Task1.runtimeconfig.json
+d:\GitFiles\NorbitPractice\DataType_Task1\DataType_Task1_Project\bin\Release\net8.0-windows\DataType_Task1.dll
+d:\GitFiles\NorbitPractice\DataType_Task1\DataType_Task1_Project\bin\Release\net8.0-windows\DataType_Task1.pdb
+d:\GitFiles\NorbitPractice\DataType_Task1\DataType_Task1_Project\obj\Release\net8.0-windows\WinFormsApp1.Form1.resources
+d:\GitFiles\NorbitPractice\DataType_Task1\DataType_Task1_Project\obj\Release\net8.0-windows\DataType_Task1.csproj.GenerateResource.cache
+d:\GitFiles\NorbitPractice\DataType_Task1\DataType_Task1_Project\obj\Release\net8.0-windows\DataType_Task1.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitFiles\NorbitPractice\DataType_Task1\DataType_Task1_Project\obj\Release\net8.0-windows\DataType_Task1.AssemblyInfoInputs.cache
+d:\GitFiles\NorbitPractice\DataType_Task1\DataType_Task1_Project\obj\Release\net8.0-windows\DataType_Task1.AssemblyInfo.cs
+d:\GitFiles\NorbitPractice\DataType_Task1\DataType_Task1_Project\obj\Release\net8.0-windows\DataType_Task1.csproj.CoreCompileInputs.cache
+d:\GitFiles\NorbitPractice\DataType_Task1\DataType_Task1_Project\obj\Release\net8.0-windows\DataType_Task1.sourcelink.json
+d:\GitFiles\NorbitPractice\DataType_Task1\DataType_Task1_Project\obj\Release\net8.0-windows\DataType_Task1.dll
+d:\GitFiles\NorbitPractice\DataType_Task1\DataType_Task1_Project\obj\Release\net8.0-windows\refint\DataType_Task1.dll
+d:\GitFiles\NorbitPractice\DataType_Task1\DataType_Task1_Project\obj\Release\net8.0-windows\DataType_Task1.pdb
+D:\GitFiles\NorbitPractice\DataType_Task1\DataType_Task1_Project\obj\Release\net8.0-windows\DataType_Task1.genruntimeconfig.cache
+D:\GitFiles\NorbitPractice\DataType_Task1\DataType_Task1_Project\obj\Release\net8.0-windows\ref\DataType_Task1.dll

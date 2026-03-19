@@ -2,6 +2,9 @@ namespace WinFormsApp1
 {
     public partial class Form1 : Form
     {
+        private double _initialDeposit;
+        private int _years;
+        private double _interestRate;
         public Form1()
         {
             InitializeComponent();
@@ -9,18 +12,24 @@ namespace WinFormsApp1
 
         private void buttonResult_Click(object sender, EventArgs e)
         {
-            int initialDeposit = Convert.ToInt32(textBoxInitialDeposit.Text);
-            int years = Convert.ToInt32(textBoxYears.Text);
-            int interestRate = Convert.ToInt32(textBoxInterestRate.Text);
-            richTextBoxResult.Text = AmountOfSavings(initialDeposit, years, interestRate);
+            try
+            {
+                _initialDeposit = Convert.ToDouble(textBoxInitialDeposit.Text);
+                _years = Convert.ToInt32(textBoxYears.Text);
+                _interestRate = Convert.ToDouble(textBoxInterestRate.Text);
+            }
+            catch (FormatException)
+            { MessageBox.Show("Введите корректные числа в поля!"); }
+            
+            richTextBoxResult.Text = AmountOfSavings(_initialDeposit, _years, _interestRate);
         }
 
-        private String AmountOfSavings(int initialDeposit, int years, int interestRate)
+        private String AmountOfSavings(double initialDeposit, int years, double interestRate)
         {
             String result = "";
             for (int i = 1; i <= years; i++)
             {
-                result += $"Год {i}: {initialDeposit += (int)(initialDeposit * (interestRate * 0.01))} \n";
+                result += $"Год {i}: {Math.Round(initialDeposit += (double)(initialDeposit * (interestRate * 0.01)), 2)} \n";
 
             }
             return result;
@@ -28,7 +37,7 @@ namespace WinFormsApp1
 
         private void textBoxInitialDeposit_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) && e.KeyChar != ',')
             {
                 e.Handled = true;
             }
@@ -44,7 +53,7 @@ namespace WinFormsApp1
 
         private void textBoxInterestRate_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) && e.KeyChar != ',')
             {
                 e.Handled = true;
             }

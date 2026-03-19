@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "WinFormsApp1/1.0.0": {
+      "DataType_Task1/1.0.0": {
         "runtime": {
-          "WinFormsApp1.dll": {}
+          "DataType_Task1.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "WinFormsApp1/1.0.0": {
+    "DataType_Task1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
