@@ -1,0 +1,17 @@
+D:\GitFiles\NorbitPractice\DataType_Task1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.exe
+D:\GitFiles\NorbitPractice\DataType_Task1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.deps.json
+D:\GitFiles\NorbitPractice\DataType_Task1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\GitFiles\NorbitPractice\DataType_Task1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.dll
+D:\GitFiles\NorbitPractice\DataType_Task1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.pdb
+D:\GitFiles\NorbitPractice\DataType_Task1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.Form1.resources
+D:\GitFiles\NorbitPractice\DataType_Task1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\GitFiles\NorbitPractice\DataType_Task1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitFiles\NorbitPractice\DataType_Task1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\GitFiles\NorbitPractice\DataType_Task1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\GitFiles\NorbitPractice\DataType_Task1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\GitFiles\NorbitPractice\DataType_Task1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.sourcelink.json
+D:\GitFiles\NorbitPractice\DataType_Task1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.dll
+D:\GitFiles\NorbitPractice\DataType_Task1\WinFormsApp1\obj\Release\net8.0-windows\refint\WinFormsApp1.dll
+D:\GitFiles\NorbitPractice\DataType_Task1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.pdb
+D:\GitFiles\NorbitPractice\DataType_Task1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\GitFiles\NorbitPractice\DataType_Task1\WinFormsApp1\obj\Release\net8.0-windows\ref\WinFormsApp1.dll
