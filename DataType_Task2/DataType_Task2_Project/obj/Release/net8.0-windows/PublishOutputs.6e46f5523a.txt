@@ -1,0 +1,5 @@
+D:\GitFiles\NorbitPractice\DataType_Task2\DataType_Task2_EXE\DataType_Task2.exe
+D:\GitFiles\NorbitPractice\DataType_Task2\DataType_Task2_EXE\DataType_Task2.dll
+D:\GitFiles\NorbitPractice\DataType_Task2\DataType_Task2_EXE\DataType_Task2.deps.json
+D:\GitFiles\NorbitPractice\DataType_Task2\DataType_Task2_EXE\DataType_Task2.runtimeconfig.json
+D:\GitFiles\NorbitPractice\DataType_Task2\DataType_Task2_EXE\DataType_Task2.pdb

@@ -19,7 +19,6 @@ namespace DataType_Task2
             {
                 MessageBox.Show("Число должно быть нечётным");
             }
-
             else
             {
                 richTextBoxRhombus.Text = RhombusDraw(_diagonal).ToString();
@@ -31,30 +30,30 @@ namespace DataType_Task2
             char[] rhombus = new char[diagonal];
             int leftSide = rhombus.Length / 2;
             int rightSide = leftSide;
-            for (int j = 0; j < rhombus.Length; j++)
+            for (int i = 0; i < rhombus.Length; i++)
             {
-                for (int i = 0; i < rhombus.Length; i++)
+                for (int j = 0; j < rhombus.Length; j++)
                 {
                     if (leftSide == rightSide)
                     {
-                        if (i != leftSide)
+                        if (j != leftSide)
                         {
-                            rhombus[i] = ' ';
+                            rhombus[j] = ' ';
                         }
                         else
                         {
-                            rhombus[i] = 'X';
+                            rhombus[j] = 'X';
                         }
                     }
                     else
                     {
-                        if (i != leftSide && i != rightSide)
+                        if (j != leftSide && j != rightSide)
                         {
-                            rhombus[i] = ' ';
+                            rhombus[j] = ' ';
                         }
                         else
                         {
-                            rhombus[i] = 'X';
+                            rhombus[j] = 'X';
                         }
                     }
                 }
@@ -62,12 +61,12 @@ namespace DataType_Task2
                 { _rhombusString.Append(elem); }
                 _rhombusString.Append("\n");
 
-                if (j < diagonal/2)
+                if (i < diagonal/2)
                 { leftSide--; }
                 else
                 { leftSide++; }
 
-                if (j < diagonal / 2)
+                if (i < diagonal / 2)
                 { rightSide++; }
                 else
                 { rightSide--; }

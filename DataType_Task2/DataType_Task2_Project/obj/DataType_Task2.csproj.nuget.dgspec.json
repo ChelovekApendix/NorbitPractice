@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitFiles\\NorbitPractice\\DataType_Task2\\DataType_Task2\\DataType_Task2.csproj": {}
+    "D:\\GitFiles\\NorbitPractice\\DataType_Task2\\DataType_Task2_Project\\DataType_Task2.csproj": {}
   },
   "projects": {
-    "D:\\GitFiles\\NorbitPractice\\DataType_Task2\\DataType_Task2\\DataType_Task2.csproj": {
+    "D:\\GitFiles\\NorbitPractice\\DataType_Task2\\DataType_Task2_Project\\DataType_Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitFiles\\NorbitPractice\\DataType_Task2\\DataType_Task2\\DataType_Task2.csproj",
+        "projectUniqueName": "D:\\GitFiles\\NorbitPractice\\DataType_Task2\\DataType_Task2_Project\\DataType_Task2.csproj",
         "projectName": "DataType_Task2",
-        "projectPath": "D:\\GitFiles\\NorbitPractice\\DataType_Task2\\DataType_Task2\\DataType_Task2.csproj",
+        "projectPath": "D:\\GitFiles\\NorbitPractice\\DataType_Task2\\DataType_Task2_Project\\DataType_Task2.csproj",
         "packagesPath": "C:\\Users\\Dima\\.nuget\\packages\\",
-        "outputPath": "D:\\GitFiles\\NorbitPractice\\DataType_Task2\\DataType_Task2\\obj\\",
+        "outputPath": "D:\\GitFiles\\NorbitPractice\\DataType_Task2\\DataType_Task2_Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
