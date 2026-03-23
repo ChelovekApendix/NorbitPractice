@@ -1,0 +1,17 @@
+D:\GitFiles\NorbitPractice\OOP_Rectangles\obj\Debug\net8.0-windows\OOP_Rectangles.Form1.resources
+D:\GitFiles\NorbitPractice\OOP_Rectangles\obj\Debug\net8.0-windows\OOP_Rectangles.csproj.GenerateResource.cache
+D:\GitFiles\NorbitPractice\OOP_Rectangles\obj\Debug\net8.0-windows\OOP_Rectangles.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitFiles\NorbitPractice\OOP_Rectangles\obj\Debug\net8.0-windows\OOP_Rectangles.AssemblyInfoInputs.cache
+D:\GitFiles\NorbitPractice\OOP_Rectangles\obj\Debug\net8.0-windows\OOP_Rectangles.AssemblyInfo.cs
+D:\GitFiles\NorbitPractice\OOP_Rectangles\obj\Debug\net8.0-windows\OOP_Rectangles.csproj.CoreCompileInputs.cache
+D:\GitFiles\NorbitPractice\OOP_Rectangles\obj\Debug\net8.0-windows\OOP_Rectangles.sourcelink.json
+D:\GitFiles\NorbitPractice\OOP_Rectangles\bin\Debug\net8.0-windows\OOP_Rectangles.exe
+D:\GitFiles\NorbitPractice\OOP_Rectangles\bin\Debug\net8.0-windows\OOP_Rectangles.deps.json
+D:\GitFiles\NorbitPractice\OOP_Rectangles\bin\Debug\net8.0-windows\OOP_Rectangles.runtimeconfig.json
+D:\GitFiles\NorbitPractice\OOP_Rectangles\bin\Debug\net8.0-windows\OOP_Rectangles.dll
+D:\GitFiles\NorbitPractice\OOP_Rectangles\bin\Debug\net8.0-windows\OOP_Rectangles.pdb
+D:\GitFiles\NorbitPractice\OOP_Rectangles\obj\Debug\net8.0-windows\OOP_Rectangles.dll
+D:\GitFiles\NorbitPractice\OOP_Rectangles\obj\Debug\net8.0-windows\refint\OOP_Rectangles.dll
+D:\GitFiles\NorbitPractice\OOP_Rectangles\obj\Debug\net8.0-windows\OOP_Rectangles.pdb
+D:\GitFiles\NorbitPractice\OOP_Rectangles\obj\Debug\net8.0-windows\OOP_Rectangles.genruntimeconfig.cache
+D:\GitFiles\NorbitPractice\OOP_Rectangles\obj\Debug\net8.0-windows\ref\OOP_Rectangles.dll
