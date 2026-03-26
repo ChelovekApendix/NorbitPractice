@@ -6,18 +6,10 @@ namespace OOP_Rectangles
     {
         private int _coordinateX, _coordinateY;
         private int _width, _height;
-        private Rectangle _rectangle;
-        private bool _drawRect = false;
+
         public Form1()
         {
             InitializeComponent();
-        }
-        private void panelSquare_Paint(object sender, PaintEventArgs e)
-        {
-            if (_drawRect == true)
-            {
-                e.Graphics.DrawRectangle(Pens.Black, _rectangle);
-            }
         }
 
         private void buttonResult_Click(object sender, EventArgs e)
@@ -26,18 +18,9 @@ namespace OOP_Rectangles
             _coordinateY = Convert.ToInt32(textBoxCoordY.Text);
             _width = Convert.ToInt32(textBoxWidth.Text);
             _height = Convert.ToInt32(textBoxHeight.Text);
-            RectangleFigure rectangle = new RectangleFigure(_width, _height);
-            _rectangle = new Rectangle(_coordinateX, _coordinateY, _width, _height);
+            RectangleFigure rectangle = new RectangleFigure(_width, _height, _coordinateX, _coordinateY, panelSquare);
+            panelSquare.Paint += rectangle.panelSquare_Paint;
             labelResult.Text = $"P = {rectangle.getP}, S = {rectangle.getS}";
-            _drawRect = true;
-            if (_coordinateX + _width < panelSquare.Width && _coordinateY + _height < panelSquare.Height)
-            {
-                panelSquare.Invalidate();
-            }
-            else
-            {
-                MessageBox.Show("Невозможно построить фигуру, которая выходит за пределы панели");
-            }
         }
 
         private void AllTextBoxes_KeyPress(object sender, KeyPressEventArgs e)

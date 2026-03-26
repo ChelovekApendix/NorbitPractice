@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitFiles\\NorbitPractice\\OOP_Rectangles\\OOP_Rectangles.csproj",
+      "projectUniqueName": "D:\\GitFiles\\NorbitPractice\\OOP_Rectangles\\OOP_Rectangles_Project\\OOP_Rectangles.csproj",
       "projectName": "OOP_Rectangles",
-      "projectPath": "D:\\GitFiles\\NorbitPractice\\OOP_Rectangles\\OOP_Rectangles.csproj",
+      "projectPath": "D:\\GitFiles\\NorbitPractice\\OOP_Rectangles\\OOP_Rectangles_Project\\OOP_Rectangles.csproj",
       "packagesPath": "C:\\Users\\Dima\\.nuget\\packages\\",
-      "outputPath": "D:\\GitFiles\\NorbitPractice\\OOP_Rectangles\\obj\\",
+      "outputPath": "D:\\GitFiles\\NorbitPractice\\OOP_Rectangles\\OOP_Rectangles_Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -153,7 +153,7 @@
             panelSquare.Name = "panelSquare";
             panelSquare.Size = new Size(226, 226);
             panelSquare.TabIndex = 11;
-            panelSquare.Paint += panelSquare_Paint;
+            //panelSquare.Paint += panelSquare_Paint;
             // 
             // label6
             // 
