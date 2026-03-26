@@ -1,0 +1,5 @@
+D:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_EXE\OOP_Rectangles.exe
+D:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_EXE\OOP_Rectangles.dll
+D:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_EXE\OOP_Rectangles.deps.json
+D:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_EXE\OOP_Rectangles.runtimeconfig.json
+D:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_EXE\OOP_Rectangles.pdb

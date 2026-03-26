@@ -1,0 +1,17 @@
+d:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_Project\bin\Release\net8.0-windows\OOP_Rectangles.exe
+D:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_Project\bin\Release\net8.0-windows\OOP_Rectangles.deps.json
+D:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_Project\bin\Release\net8.0-windows\OOP_Rectangles.runtimeconfig.json
+d:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_Project\bin\Release\net8.0-windows\OOP_Rectangles.dll
+d:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_Project\bin\Release\net8.0-windows\OOP_Rectangles.pdb
+d:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_Project\obj\Release\net8.0-windows\OOP_Rectangles.Form1.resources
+d:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_Project\obj\Release\net8.0-windows\OOP_Rectangles.csproj.GenerateResource.cache
+d:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_Project\obj\Release\net8.0-windows\OOP_Rectangles.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_Project\obj\Release\net8.0-windows\OOP_Rectangles.AssemblyInfoInputs.cache
+d:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_Project\obj\Release\net8.0-windows\OOP_Rectangles.AssemblyInfo.cs
+d:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_Project\obj\Release\net8.0-windows\OOP_Rectangles.csproj.CoreCompileInputs.cache
+d:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_Project\obj\Release\net8.0-windows\OOP_Rectangles.sourcelink.json
+d:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_Project\obj\Release\net8.0-windows\OOP_Rectangles.dll
+d:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_Project\obj\Release\net8.0-windows\refint\OOP_Rectangles.dll
+d:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_Project\obj\Release\net8.0-windows\OOP_Rectangles.pdb
+D:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_Project\obj\Release\net8.0-windows\OOP_Rectangles.genruntimeconfig.cache
+D:\GitFiles\NorbitPractice\OOP_Rectangles\OOP_Rectangles_Project\obj\Release\net8.0-windows\ref\OOP_Rectangles.dll
