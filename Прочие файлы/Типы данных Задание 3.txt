@@ -1,0 +1,7 @@
+Таймаров Д.А.
+ООП/Задание
+Тема 1: Геометрия - прямоугольники
+26.03.2026
+
+Ссылка:
+https://github.com/ChelovekApendix/NorbitPractice/tree/main/OOP_Rectangles
