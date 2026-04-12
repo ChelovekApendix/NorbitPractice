@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitFiles\\NorbitPractice\\Collections_Task\\Collections_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EE0332-DD77-46BB-9CC1-9F8E5AFD4BE4}|Collections_Task.csproj|d:\\gitfiles\\norbitpractice\\collections_task\\collections_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EE0332-DD77-46BB-9CC1-9F8E5AFD4BE4}|Collections_Task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EE0332-DD77-46BB-9CC1-9F8E5AFD4BE4}|Collections_Task.csproj|d:\\gitfiles\\norbitpractice\\collections_task\\collections_task\\smartstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EE0332-DD77-46BB-9CC1-9F8E5AFD4BE4}|Collections_Task.csproj|solutionrelative:smartstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{66f449b5-c823-40bc-9016-02b4d06a1a8e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmartStack.cs",
+              "DocumentMoniker": "D:\\GitFiles\\NorbitPractice\\Collections_Task\\Collections_Task\\SmartStack.cs",
+              "RelativeDocumentMoniker": "SmartStack.cs",
+              "ToolTip": "D:\\GitFiles\\NorbitPractice\\Collections_Task\\Collections_Task\\SmartStack.cs",
+              "RelativeToolTip": "SmartStack.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAASwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T18:08:49.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitFiles\\NorbitPractice\\Collections_Task\\Collections_Task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GitFiles\\NorbitPractice\\Collections_Task\\Collections_Task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T18:08:31.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\GitFiles\NorbitPractice\Collections_Task\Collections_Task\bin\Debug\net8.0\Collections_Task.exe
+D:\GitFiles\NorbitPractice\Collections_Task\Collections_Task\bin\Debug\net8.0\Collections_Task.deps.json
+D:\GitFiles\NorbitPractice\Collections_Task\Collections_Task\bin\Debug\net8.0\Collections_Task.runtimeconfig.json
+D:\GitFiles\NorbitPractice\Collections_Task\Collections_Task\bin\Debug\net8.0\Collections_Task.dll
+D:\GitFiles\NorbitPractice\Collections_Task\Collections_Task\bin\Debug\net8.0\Collections_Task.pdb
+D:\GitFiles\NorbitPractice\Collections_Task\Collections_Task\obj\Debug\net8.0\Collections_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitFiles\NorbitPractice\Collections_Task\Collections_Task\obj\Debug\net8.0\Collections_Task.AssemblyInfoInputs.cache
+D:\GitFiles\NorbitPractice\Collections_Task\Collections_Task\obj\Debug\net8.0\Collections_Task.AssemblyInfo.cs
+D:\GitFiles\NorbitPractice\Collections_Task\Collections_Task\obj\Debug\net8.0\Collections_Task.csproj.CoreCompileInputs.cache
+D:\GitFiles\NorbitPractice\Collections_Task\Collections_Task\obj\Debug\net8.0\Collections_Task.sourcelink.json
+D:\GitFiles\NorbitPractice\Collections_Task\Collections_Task\obj\Debug\net8.0\Collections_Task.dll
+D:\GitFiles\NorbitPractice\Collections_Task\Collections_Task\obj\Debug\net8.0\refint\Collections_Task.dll
+D:\GitFiles\NorbitPractice\Collections_Task\Collections_Task\obj\Debug\net8.0\Collections_Task.pdb
+D:\GitFiles\NorbitPractice\Collections_Task\Collections_Task\obj\Debug\net8.0\Collections_Task.genruntimeconfig.cache
+D:\GitFiles\NorbitPractice\Collections_Task\Collections_Task\obj\Debug\net8.0\ref\Collections_Task.dll
